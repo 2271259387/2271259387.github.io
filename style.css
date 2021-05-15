@@ -83,7 +83,7 @@
      background-size: 400%;
      filter: blur(20px);
      /*过渡：模糊*/
-     opacity: 0.5;
+     opacity: 0;
      /*透明度*/
      transition: 1s;
      /*过渡时间*/
@@ -92,7 +92,7 @@
  neon:hover::before {
      animation-play-state: running;
      filter: blur(20px);
-     opacity: 0;
+     opacity: 0.5;
      animation: animate 8s linear infinite;
      /*注意动画名称统一*/
  }
