@@ -24,7 +24,7 @@
      z-index: 30;
      /*width: 100%;*/
      right: 20px;
-     border-radius: 50px;
+     border-radius: 30px;
      padding: 10px 20px;
      -webkit-backdrop-filter: blur(15px);
      backdrop-filter: blur(15px);
@@ -79,7 +79,7 @@
      /*当设置对立的2个定位属性时，元素的大小将由对立的大小决定*/
      z-index: -1;
      background: linear-gradient( 90deg, #03a9f4, #f441a5, #ffeb3b, #03a9f4, #f441a5, #ffeb3b, #03a9f4);
-     border-radius: 40px;
+     border-radius: 30px;
      background-size: 400%;
      filter: blur(20px);
      /*过渡：模糊*/
