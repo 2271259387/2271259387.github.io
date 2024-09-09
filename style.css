@@ -88,6 +88,6 @@
      animation-play-state: running;
      filter: blur(20px);
      opacity: 0.5;
-     animation: animate 8s linear infinite;
+     animation: animate 3s  infinite forwards;
      /*注意动画名称统一*/
  }
