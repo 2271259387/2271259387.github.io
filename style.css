@@ -42,7 +42,7 @@
  /*按钮的css*/
  
  neon:hover {
-     animation: animate 8s linear infinite normal;
+     animation: animate 8s linear infinite forwards;
      /*动画: 名称 时间 线性 循环 播放完回退播放*/
  }
  
